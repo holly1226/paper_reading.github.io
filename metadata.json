@@ -1,0 +1,5 @@
+{
+  "name": "PaperDecipher Pro",
+  "description": "An intelligent academic paper reader and personal knowledge management system powered by Gemini 2.5. It transforms complex academic papers into easy-to-understand language and builds a personal knowledge graph.",
+  "requestFramePermissions": []
+}
